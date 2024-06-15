@@ -1,1 +1,1 @@
-# projekt_java
+# projekty_java
